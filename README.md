@@ -10,21 +10,7 @@
   <h2> <font color= "white"> 2/7/18 </h2>
   </center>
 
-<style>
 
-h1 {
-    color: red;
-    text-align: center;
-    font-family: "Arial";
-    font-weight:bold;
-    text-transform:uppercase;
-}
-  body {
-  background: #44245;
-  background: -webkit-linear-gradient(to left, #83420 , #f35433);
-  background: linear-gradient(to left, #4DA0B0 , #D39D38);
-  }
-</style>
 
 <center>
 <h1>Zenelis Pizza </h1>
